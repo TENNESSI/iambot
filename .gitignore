@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 config.py
+test_session.session
